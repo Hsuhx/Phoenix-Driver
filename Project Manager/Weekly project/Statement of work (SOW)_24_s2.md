@@ -1,6 +1,8 @@
 # Statement of Work (SOW)
 
 ## Project Name: Phoenix Avenue Driving Service
+### Date Prepared: 02/08/2024
+### Project Start Date: 29/07/2024
 
 ### Project Background
 
@@ -221,3 +223,16 @@ The project has identified potential risks and developed strategies to address t
 This **Statement of Work** outlines the detailed plan for the **Phoenix Avenue Driving Service** project, ensuring clarity and alignment among all stakeholders. By adhering to the specified guidelines, we are committed to delivering a successful project that achieves its objectives and redefines the driving service landscape in Australia.
 
 ---
+
+## Project Members
+
+| **Name**             | **Team Email**          | **Github Email**       | **Signature** 
+|--------------------|---------------------------|------------------------|--------------------|
+|  |    |   |
+|     |    |                                |
+| Xiaotong Chen       | u7709227@anu.edu.au | tchen9691@gmail.com         | Xiaotong Chen  |
+|    |          | |
+
+---
+
+
