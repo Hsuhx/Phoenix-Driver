@@ -33,4 +33,4 @@
 - Prepare for Audit1 by 02/08/2024
 
 ## Decisions 
-- [x] Finish the framework creation
+- [x] Finish landing page
