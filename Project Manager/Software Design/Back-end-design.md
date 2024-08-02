@@ -1,10 +1,15 @@
 ![微信图片_20240314183917](https://github.com/ZIYANGSONG2003/AI-Enhanced-WordPress-Development-Toolkit/assets/110000045/6154d38d-453d-4190-afc6-bc42248694de)
 # Backend Architecture Design
 
-## Overview
+Certainly! Here's a simplified overview for your "Phoenix Drive" project:
 
-The backend design for the AI-Enhanced WordPress Development Toolkit is structured to ensure robust integration with WordPress, utilizing cutting-edge web technologies and AI capabilities from OpenAI.
-![image](https://github.com/ZIYANGSONG2003/AI-Enhanced-WordPress-Development-Toolkit/assets/110000045/555af370-94cd-4cad-be6c-65e7018e78af)
+---
+
+## **Overview**
+
+The backend architecture of the "Phoenix Drive" project is designed to support driver service for the Australian Capital Territory (ACT). Utilizing Java-based technologies like Spring Boot and Spring Cloud, the system offers a reliable and scalable platform tailored to enhance user experience in ride-hailing.
+
+Key features of the backend include real-time tracking of drivers, secure payment processing, and efficient handling of user requests through advanced data management with MyBatis-Plus and MongoDB. The system also uses Redis for fast data caching and RabbitMQ for managing communication between services, ensuring quick and reliable service delivery.
 
 ## Components
 
