@@ -233,7 +233,7 @@ This **Statement of Work** outlines the detailed plan for the **Phoenix Avenue D
 | Zeyi Liu      | u7691850@anu.edu.au | liuzeyi96@gmail.com   | Zeyi Liu      |
 | Xinrui Zhang  | u7728429@anu.edu.au | 765684249@qq.com      | Xinrui Zhang  |
 | Haoxuan Xu    | u7747847@anu.edu.au | r4ve0808@163.com      | Haoxuan Xu    |
-| Chnrui Tao    | u7692445@anu.edu.au | t18538717221@gmail.com| Chunrui Tao   |
+| Chunrui Tao    | u7692445@anu.edu.au | t18538717221@gmail.com| Chunrui Tao   |
 ---
 
 
