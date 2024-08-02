@@ -1,7 +1,7 @@
 
 # User Story
 
-#### User stories help to capture specific needs from the perspective of end users and be written in simple, non-technical language to make them easy to understand for all stakeholders, including client, developers and managers. For the Phoenix Drive project, the user story can clearly describe how users want to use the designated driver service, as well as the needs of developers and customers, so as to ensure that all aspects of the project can meet the expectations of all stakeholders.
+###### User stories help to capture specific needs from the perspective of end users and be written in simple, non-technical language to make them easy to understand for all stakeholders, including client, developers and managers. For the Phoenix Drive project, the user story can clearly describe how users want to use the designated driver service, as well as the needs of developers and customers, so as to ensure that all aspects of the project can meet the expectations of all stakeholders.
 
 
 ### User
