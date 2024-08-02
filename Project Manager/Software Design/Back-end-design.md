@@ -1,10 +1,6 @@
 ![微信图片_20240314183917](https://github.com/ZIYANGSONG2003/AI-Enhanced-WordPress-Development-Toolkit/assets/110000045/6154d38d-453d-4190-afc6-bc42248694de)
 # Backend Architecture Design
 
-Certainly! Here's a simplified overview for your "Phoenix Drive" project:
-
----
-
 ## **Overview**
 
 The backend architecture of the "Phoenix Drive" project is designed to support driver service for the Australian Capital Territory (ACT). Utilizing Java-based technologies like Spring Boot and Spring Cloud, the system offers a reliable and scalable platform tailored to enhance user experience in ride-hailing.
