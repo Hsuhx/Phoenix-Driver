@@ -21,6 +21,6 @@
 
 ## Action items 
 - Finish ALL documentation by 27/07/2024
+- Complete role assignment by 02/08/2024
 
-## Decisions 
 
