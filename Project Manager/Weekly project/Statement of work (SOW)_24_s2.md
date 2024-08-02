@@ -232,6 +232,7 @@ This **Statement of Work** outlines the detailed plan for the **Phoenix Avenue D
 |     |    |                                |
 | Xiaotong Chen       | u7709227@anu.edu.au | tchen9691@gmail.com         | Xiaotong Chen  |
 | Zeyi Liu            | u7691850@anu.edu.au | liuzeyi96@gmail.com         | Zeyi Liu       |
+| Xinrui Zhang            | u7728429@anu.edu.au | 765684249@qq.com         | Xinrui Zhang       |
 |    |          | |
 
 ---
