@@ -1,10 +1,10 @@
 
 # User Story
 
-###### User stories help to capture specific needs from the perspective of end users and be written in simple, non-technical language to make them easy to understand for all stakeholders, including client, developers and managers. For the Phoenix Drive project, the user story can clearly describe how users want to use the designated driver service, as well as the needs of developers and customers, so as to ensure that all aspects of the project can meet the expectations of all stakeholders.
+User stories help to capture specific needs from the perspective of end users and be written in simple, non-technical language to make them easy to understand for all stakeholders, including client, developers and managers. For the Phoenix Drive project, the user story can clearly describe how users want to use the designated driver service, as well as the needs of developers and customers, so as to ensure that all aspects of the project can meet the expectations of all stakeholders.
 
 
-### User
+## User
 
 As a User, I want to be able quickly find a designated driver through the Phoenix Drive app when I’m out partying I can avoid the risk of drunk driving.
 
@@ -18,7 +18,7 @@ As a User, I want the app to ensure that all designated driver are verified and 
 
 
 
-### Developers
+## Developers
 
 As a deveplopers, I want to design an intuitive and ensy-to-navigate user interface for the Phonenix Drive application that would enhance the user experience.
 
@@ -31,7 +31,7 @@ As a developers, I want to be able to cache through Redis to  improve the repons
 As a developers, I want to realize message communication between services through the integration of RabbitMQ to ensure the reliability of large-scale distributed projects.
 
 
-### Client
+## Client
 
 As a client, I want that the Phoenix Drive application can provide convenient and efficient solutions when users need to drive on behalf of others to fill the gap in the Australian capital market.
 
