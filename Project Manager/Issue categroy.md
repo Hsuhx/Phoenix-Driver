@@ -35,6 +35,7 @@ The Front-end category covers issues related to the client-side of our applicati
 Examples:
 - UI/UX improvements.
 - Accessibility and responsive design features.
+- 
 
 
  

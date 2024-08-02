@@ -26,3 +26,4 @@ Identify and discuss team responsibilities by following the instructions for the
 - [ ] Multi-platform testing
 - [ ] Functionality expansion
 
+
