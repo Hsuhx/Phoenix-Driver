@@ -63,4 +63,3 @@ Smart contracts: Implementing smart contracts to automatically handle disputes b
 
 ## Goal of the MVP
 The goal of this semester is to build a designated driver system that realizes basic functions and to conduct some research on the feasibility of implementing a new designated driver system that integrates machine learning in Australia, so as to be fully prepared for future development.
-
