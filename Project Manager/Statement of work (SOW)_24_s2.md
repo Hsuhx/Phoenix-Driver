@@ -18,7 +18,7 @@ The **Phoenix Driver** project aims to redefine the driving service industry in 
 
 - **Core Services**: Specializes in alcohol driving, business driving, and long-distance driving services. These services are meticulously designed to offer safe, professional, and reliable driving solutions tailored to diverse customer needs.
   
-- **Online Platform**: Our platform integrates cutting-edge technology to create an intuitive online service, simplifying booking processes and enabling users to schedule services easily via mobile or desktop applications.
+- **Online Platform**: Our platform integrates cutting-edge technology to create an intuitive online service, simplifying booking processes and enabling users to schedule services easily via mobile applications.
 
 ### User Experience:
 
@@ -72,19 +72,7 @@ The **Phoenix Driver** project is organized into several critical phases, each d
   
 - **Functionality**: The app will facilitate seamless interactions, allowing users to book and manage their driving services on-the-go, with real-time updates and notifications.
 
-#### Web Platform Development:
-
-- **Objective**: Create a comprehensive web platform that complements the mobile application, providing users with an alternative access point for booking and managing services.
-  
-- **Features**: The platform will support functionalities such as account management, booking history, secure payments, and user reviews, enhancing user engagement and satisfaction.
-
 ### Service Integration
-
-#### Alcohol Driving Service:
-
-- **Objective**: Implement specialized features for alcohol-related services, ensuring compliance with safety regulations and offering secure transportation options.
-  
-- **Focus**: Provide reliable, professional drivers who prioritize customer safety and comfort, offering a seamless experience for users requiring alcohol-free transport.
 
 #### Business Driving Service:
 
