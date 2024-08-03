@@ -154,7 +154,7 @@ The project will deliver a series of key components and resources, ensuring the 
 
 - **Objective**: Develop and launch a fully functional digital platform, encompassing both mobile and web applications, with seamless integration of all core services.
   
-- **Timeline**: Begin development on July 29, 2024, with the goal of launching the platform by October 25, 2024. This phase focuses on building the platform's infrastructure and integrating essential features for user interaction.
+- **Timeline**: Begin development on July 29, 2024, with the goal of launching the platform by May 30, 2025. This phase focuses on building the platform's infrastructure and integrating essential features for user interaction.
 
 ### Marketing and Brand Strategy
 
@@ -184,8 +184,10 @@ The project will deliver a series of key components and resources, ensuring the 
 ## Human Resources
 
 - **Project Manager**: 1
-- **Developers**: 6
-
+- **Front-end Developers**: 2
+- **Back-end Developers**: 2
+- **Test Developers**: 2
+  
 ---
 
 ## Risk Management
