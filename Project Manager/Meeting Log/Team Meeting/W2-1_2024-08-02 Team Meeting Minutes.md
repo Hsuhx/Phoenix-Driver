@@ -1,4 +1,4 @@
-# W3-1 | 2024-08-02 Team Meeting Minutes
+# W2-1 | 2024-08-02 Team Meeting Minutes
 
 ## Meeting Details
 - **Date:** 02/08/2024
