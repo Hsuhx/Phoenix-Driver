@@ -40,7 +40,7 @@ The **Phoenix Driver** project aims to redefine the driving service industry in 
 
 The primary objective of the **Phoenix Driver** project is to redefine the driving service industry by breaking down traditional barriers associated with accessing professional driving solutions. We aim to achieve this through the following key initiatives:
 
-### Digital Platform Accessibility:
+### Platform Accessibility:
 
 - **User-Centric Design**: The platform is crafted with a focus on user accessibility, ensuring that individuals can easily navigate and utilize the service offerings, regardless of their technical background.
 
@@ -175,8 +175,8 @@ The project will deliver a series of key components and resources, ensuring the 
 | **Phase**                                | **Time**                             | **Milestone**                                            |
 |------------------------------------------|--------------------------------------|----------------------------------------------------------|
 | Requirements Analysis                    | July 29, 2024 - August 9, 2024       | Completion of detailed requirement analysis report       |
-| Design and Backend Development           | August 9, 2024 - October 25, 2024    | Completion of development                                |
-| Testing                                  | December 1, 2024 - February 28, 2025 | Platform launch and internal testing                     |
+| Design and Backend Development           | August 9, 2024 - October 25, 2024    | Completion of development, and Test                      |
+| Testing and Maintenance                  | December 1, 2024 - February 28, 2025 | Platform launch and internal testing, and maintenance    |
 | Mobile App Development and Maintenance   | March 1, 2025 - May 30, 2025         | Mobile app development, launch, and maintenance          |
 
 ---
@@ -184,8 +184,8 @@ The project will deliver a series of key components and resources, ensuring the 
 ## Human Resources
 
 - **Project Manager**: 1
-- **Front-end Developers**: 2
-- **Back-end Developers**: 2
+- **Frontend Developers**: 2
+- **Backend Developers**: 2
 - **Test Developers**: 2
   
 ---
@@ -216,15 +216,15 @@ This **Statement of Work** outlines the detailed plan for the **Phoenix Driver**
 
 ## Project Members
 
-| **Name**      | **Team Email**      | **Github Email**      | **Signature** 
-|---------------|---------------------|-----------------------|---------------|
-| Fei Wang      | u7770567@anu.edu.au | qq42117361@gmail.com  | Fei Wang      |
-| Xiaotong Chen | u7709227@anu.edu.au | tchen9691@gmail.com   | Xiaotong Chen |
-| Zeyi Liu      | u7691850@anu.edu.au | liuzeyi96@gmail.com   | Zeyi Liu      |
-| Xinrui Zhang  | u7728429@anu.edu.au | 765684249@qq.com      | Xinrui Zhang  |
-| Haoxuan Xu    | u7747847@anu.edu.au | r4ve0808@163.com      | Haoxuan Xu    |
-| Chunrui Tao    | u7692445@anu.edu.au | t18538717221@gmail.com| Chunrui Tao   |
-| Kunlun Zang   |u7692801@anu.edu.au  | lerbonjames18@gmail.com| Kunlun Zang  |
+| **Name**      | **Team Email**      | **Github Email**       | **Signature** 
+|---------------|---------------------|------------------------|---------------|
+| Fei Wang      | u7770567@anu.edu.au | qq42117361@gmail.com   | Fei Wang      |
+| Xiaotong Chen | u7709227@anu.edu.au | tchen9691@gmail.com    | Xiaotong Chen |
+| Zeyi Liu      | u7691850@anu.edu.au | liuzeyi96@gmail.com    | Zeyi Liu      |
+| Xinrui Zhang  | u7728429@anu.edu.au | 765684249@qq.com       | Xinrui Zhang  |
+| Haoxuan Xu    | u7747847@anu.edu.au | r4ve0808@163.com       | Haoxuan Xu    |
+| Chunrui Tao   | u7692445@anu.edu.au | t18538717221@gmail.com | Chunrui Tao   |
+| Kunlun Zang   |u7692801@anu.edu.au  | lerbonjames18@gmail.com| Kunlun Zang   |
 ---
 
 
