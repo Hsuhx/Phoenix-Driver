@@ -1,7 +1,8 @@
 # Phoenix Driver Project MVP
 
 ## Introduction
-Phoenix Driver is an innovative driver service platform primarily offering services such as driving after drinking, business driving, and long-distance driving. Leveraging the internet platform, users can easily access driving services. With the growth of private car ownership in China, the internet driving industry is developing rapidly. This project aims to fill this demand gap. Our competitive advantage is to provide safer driving services for customers. With the rise of artificial intelligence, our future goal is to integrate our application with existing AI algorithms. Our target for this semester is facial recognition: using AiFace for daily identity verification, ensuring the safety of both drivers and passengers through static and dynamic detection capabilities.
+Phoenix Driver is an innovative driver service platform primarily offering services such as driving after drinking, business driving, and long-distance driving. Leveraging the internet platform, users can easily access driving services. With the growth of private car ownership in China, the internet driving industry is developing rapidly. This project aims to fill this demand gap. Our competitive advantage is to provide safer driving services for customers.  Our future goal is to optimize services based on user feedback to improve user satisfaction.
+ Our target for this semester is facial recognition: using AiFace for daily identity verification, ensuring the safety of both drivers and passengers through static and dynamic detection capabilities.
 
 Driving after drinking: Ensuring users get home safely after drinking.
 Business driving: Providing reliable driving services for business professionals.
@@ -58,8 +59,6 @@ Elderly: Elderly people who find it inconvenient to drive for long periods.
 
 ## Future Development
 Service optimization: Continuously optimize services based on user feedback to improve user satisfaction.
-Technical upgrade: User behavior prediction: Using predictive algorithms to dynamically enhance the user interface based on individual user patterns.
-Smart contracts: Implementing smart contracts to automatically handle disputes between users and drivers based on predefined standards such as ride quality and punctuality, reducing management overhead.
 
 ## Goal of the MVP
-The goal of this semester is to build a designated driver system that realizes basic functions and to conduct some research on the feasibility of implementing a new designated driver system that integrates machine learning in Australia, so as to be fully prepared for future development.
+The goal of this semester is to build a designated driver system that realizes basic functions and strive to realize the basic facial recognition driver function to better ensure the safety of passengers.We also conducted some research on Australia’s data security and whether facial recognition and platform collection of user data are feasible in Australia. We also explored whether the project could be deployed in Australia.
