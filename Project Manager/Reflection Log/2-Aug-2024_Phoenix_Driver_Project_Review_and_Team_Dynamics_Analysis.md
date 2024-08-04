@@ -12,9 +12,7 @@ _Last updated: 2-Aug-2024_
 | Objective    | Initiate project, job delegation |
 | Focus Area   | Understand each other's strength and weakness, resources and limitations, achieve most reasonable job assignment |
 | Participants | Kunlun Zang, Fei Wang, Xiaotong Chen, Zeyi Liu, Xinrui Zhang, Haoxuan Xu|
-| Key Insights | - Analyse team and every member's strength, weakness, resources and limitation
-                - Improved task allocation boosts productivity
-                - Balance personal aspirations and team target  |
+| Key Insights | - Analyse team and every member's strength, weakness, resources and limitation <br>- Improved task allocation boosts productivity <br>- Balance personal aspirations and team target  |
 
 ---
 
