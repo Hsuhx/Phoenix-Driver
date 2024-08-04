@@ -45,7 +45,7 @@ This structured decision-making process ensures that each member of the Phoenix 
 | Not Started (❌)|  Indicates tasks or decisions that have been identified but have not yet begun. This status is useful for tracking planned activities that are pending initiation.        |
 | In Progress (🕒)       | This status is used for tasks or decisions that are currently being worked on. It shows that actions have been initiated but are not yet complete. This can include ongoing development, discussions, or any continuous activities.                  |
 | Completed (✔️)        | This status indicates that a task or decision has been fully executed and no further action is required. It signifies that objectives have been met and the outcomes are satisfactory.                   |
-
+## Decision Type 
 
 |  Category  | Description                                        |
 |-------------|---------------------------------------------------|
