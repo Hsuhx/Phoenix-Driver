@@ -47,7 +47,7 @@ This structured decision-making process ensures that each member of the Phoenix 
 | Completed (✔️)        | This status indicates that a task or decision has been fully executed and no further action is required. It signifies that objectives have been met and the outcomes are satisfactory.                   |
 ## Decision Type 
 
-|  Category  | Description                                        |
+|  Decision Type | Description                                        |
 |-------------|---------------------------------------------------|
 | Critical       | These decisions have the most significant impact on the overall success and direction of a project or organization. They often involve substantial resources, risk, and have long-term implications. Critical decisions require thorough analysis and input from top management or key stakeholders. |
 | Major      | Major decisions are important but not as far-reaching as critical decisions. They typically concern the operational aspects of larger strategies and require good judgment to align with broader organizational goals.       |
@@ -56,7 +56,7 @@ This structured decision-making process ensures that each member of the Phoenix 
 
 ## Decision Table
 
-| ID | Proposer |  Type | Issue                            |Justification                        | Decision          |    Date       | Status   | Approval |
+| ID | Proposer |  Decision Type | Issue                            |Justification                        | Decision          |    Date       | Status   | Approval |
 |----|----------|-----------|---------------------------------|-------------------------------|-------------------|---------------|----------|----------|
 | 1 | Team | Critical | Assigning roles to the team on the project | When everyone first joined the team, there was chaos. Everyone had no clear understanding of the project and did not know what role they should play in the project. | We followed our own decision-making process, worked together as a team, analyzed the situation, and finally determined the division of labor among team members.| 28/07/2024 | Completed (✔️)  | Team | 
 
