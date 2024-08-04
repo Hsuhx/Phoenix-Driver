@@ -56,7 +56,7 @@ This structured decision-making process ensures that each member of the Phoenix 
 
 ## Decision Table
 
-| ID | Proposer |  Category | Issue                            |Reason                        | Decision          |    Date       | Status   | Approval |
+| ID | Proposer |  Type | Issue                            |Justification                        | Decision          |    Date       | Status   | Approval |
 |----|----------|-----------|---------------------------------|-------------------------------|-------------------|---------------|----------|----------|
 | 1 | Team | Critical | Assigning roles to the team on the project | When everyone first joined the team, there was chaos. Everyone had no clear understanding of the project and did not know what role they should play in the project. | We followed our own decision-making process, worked together as a team, analyzed the situation, and finally determined the division of labor among team members.| 28/07/2024 | Completed (✔️)  | Team | 
 
